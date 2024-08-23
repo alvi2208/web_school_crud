@@ -1,0 +1,13 @@
+{
+    "name": "igdad/pendidikan",
+    "description": "Aplikasi Web Pendaftaran Siswa",
+    "authors": [
+        {
+            "name": "gedearya",
+            "email": "igd.ad.pratama@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "5.0.2"
+    }
+}
